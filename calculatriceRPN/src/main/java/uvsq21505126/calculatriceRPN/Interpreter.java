@@ -35,7 +35,7 @@ public final class Interpreter {
     }
 
     /**
-     * Constructeur public avec les fonctions prédéfinis.
+     * Constructeur 
      * @param historique
      * @return Interpreter
      */
